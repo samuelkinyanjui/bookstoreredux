@@ -3,6 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { fetchBooks } from '../redux/books/booksSlice';
 import Book from './Book';
 import AddBook from './AddBook';
+import '../styles/bookList.css';
 
 const BooksPage = () => {
   const dispatch = useDispatch();
@@ -25,7 +26,7 @@ const BooksPage = () => {
           />
         ))}
       </ul>
-      <div className="hr" />
+      <hr className="hr" />
       <AddBook />
     </div>
   );
