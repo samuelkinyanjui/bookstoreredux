@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import userIcon from '../Assets/user-regular.svg';
 
 const Nav = () => (
   <nav>
