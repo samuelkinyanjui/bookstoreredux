@@ -1,4 +1,5 @@
-<h1 align="center"> # BookstoreCMS<h1>
+# Books
+<a name="readme-top"></a>
 
 <a name="readme-top"></a>
 
@@ -11,7 +12,8 @@
   - [🛠 Tech Stack](#tech-stack)
 
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage))
   - [Prerequisites](#prerequisites)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -21,11 +23,13 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-## 📖 BookstoreCMS
-**BookstoreCMS** is a front-end application which can be used as a  hbook library.
+##  📖 books: setup project<a name="about-project"></a>
+
+**Bookstore** is a front-end application which can be used as a  hbook library.
 
 
-## 🛠 Built With <a name="built-with">React</a>
+## 🛠 Built With
+ <a name="built-with">React</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -57,7 +61,7 @@ In order to run this project you need:
 - basic Knowledge of Git Commands
 - basic Knowledge of the Terminal Commands
 
-### Setup
+###  📖 books: setup project/install<a name="about-project"></a>
 
 Clone this repository to your desired folder:
 
@@ -78,13 +82,19 @@ Must-Install-Project-with-the-Following-Programmes:
 - Prettier Extention in VScode
 - Git
 - Node.js
-- npm install
+- npm install```
+
+### Usage
+
+To run the project, execute the following command:
+
+> npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Md Arafat Hossain**
+👤 **Kinyanjui Samuel**
 
 - GitHub: <a href="https://github.com/samuelkinyanjui">Samuel Kinyanjui </a>
 
